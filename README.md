@@ -6,5 +6,7 @@
  <p align="center">
   <img src="huella.jpg" alt="" width="300">
 </p>
-[📄 Integrador PDF](principal.pdf)
+[Descarga PDF](https://github.com/melnet22/Practica7/blob/main/principal.pdf)
+ 
+
 
