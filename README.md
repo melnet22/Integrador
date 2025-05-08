@@ -5,8 +5,10 @@
 
  <p align="center">
   <img src="huella.jpg" alt="" width="300">
+
+  [Descarga PDF](https://github.com/melnet22/Integrador/blob/main/Principal.pdf)
 </p>
-[Descarga PDF](https://github.com/melnet22/Integrador/main/Principal.pdf)
+
 
 
 
